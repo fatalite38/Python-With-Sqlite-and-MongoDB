@@ -1,5 +1,3 @@
-# Python-With-Sqlite-and-MongoDB
-
 # Integrando Python com SQLite e MongoDB
 
 Este projeto demonstra como integrar Python com SQLite e MongoDB para gerenciar dados de clientes e contas.
